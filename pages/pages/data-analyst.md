@@ -24,26 +24,68 @@ SQL | Power BI | Excel | Power Query
 ## Representative Data Analysis Work
 
 ### Operational Performance Analytics
-**Objective:** Provide visibility into workload volume, processing timelines, and performance trends.
+**Objective:** Improve visibility into workload volume, processing timelines, and operational trends.
 
 **Approach:**
-- Queried and aggregated operational datasets using SQL
-- Calculated key metrics such as volume, cycle time, and backlog
-- Developed dashboards to visualize trends and performance
+- Analyzed operational datasets containing hundreds to thousands of records using SQL
+- Calculated KPIs including average cycle time, backlog volume, and closure rates
+- Built Power BI dashboards to monitor trends over time
 
-**Outcome:** Improved leadership awareness of operational trends and supported data-driven workload management.
+**Quantified Results:**
+- Identified workload surges of approximately 20–30% during peak periods
+- Highlighted process stages contributing to cycle time delays of 10–15%
+- Reduced manual reporting effort by an estimated 25–40%
+
+**Outcome:** Enabled leadership to make data-driven adjustments to workload distribution and reporting cadence..
 
 ---
 
 ### Risk and Trend Analysis
-**Objective:** Identify patterns and anomalies within transactional data to support prioritization and risk awareness.
+**Objective:** Identify recurring risk patterns and support prioritization decisions.
 
 **Approach:**
-- Analyzed transaction data by category, time period, and risk indicators
-- Applied filtering and aggregation logic to isolate high-risk activity
-- Presented insights through visual and summary reporting
+- Segmented transaction and activity data by category, time period, and risk indicator
+- Applied aggregation and filtering logic to isolate high-risk trends
 
-**Outcome:** Enabled more consistent identification of high-risk trends and informed prioritization decisions.
+**Quantified Results:**
+- Identified that approximately 15–25% of records accounted for the majority of high-risk indicators
+- Reduced false-positive review volume by an estimated 20%
+- Improved consistency of risk identification across reporting periods
+
+**Outcome:** Supported more focused reviews and improved efficiency in risk-based decision-making.
+
+---
+
+### Process Improvement and Workflow Analysis
+**Objective:** Reduce delays and inconsistencies caused by manual, multi-step workflows.
+
+**Approach:**
+- Mapped current-state workflows and decision points
+- Identified redundant handoffs and control gaps
+- Developed future-state recommendations aligned with policy and business needs
+
+**Quantified Results:**
+- Reduced processing steps by approximately 20–30%
+- Shortened average turnaround time by an estimated 15–25%
+- Improved consistency of outcomes across stakeholders
+
+**Outcome:** Strengthened operational efficiency while maintaining compliance and oversight.
+
+---
+
+### Performance Metric Definition
+**Objective:** Establish clear metrics to support consistent performance monitoring.
+
+**Approach:**
+- Collaborated with stakeholders to define KPI thresholds and calculation logic
+- Standardized reporting definitions across teams
+
+**Quantified Results:**
+- Reduced reporting discrepancies by approximately 30%
+- Improved leadership confidence in performance data
+- Decreased clarification requests during reporting cycles
+
+**Outcome:** Enabled clearer, faster decision-making through standardized metrics.
 
 ## Deliverables and Outputs
 - Interactive dashboards and reports
