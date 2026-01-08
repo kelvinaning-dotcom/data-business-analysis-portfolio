@@ -24,26 +24,35 @@ Excel | Power BI | Process Mapping | Documentation Standards
 ## Representative Business Analysis Work
 
 ### Process Improvement and Workflow Analysis
-**Objective:** Evaluate existing workflows to identify inefficiencies, risks, and improvement opportunities.
+**Objective:** Reduce delays and inconsistencies caused by manual, multi-step workflows.
 
 **Approach:**
-- Documented current-state processes and decision points
-- Identified bottlenecks, redundancies, and control gaps
-- Developed future-state workflow recommendations
+- Mapped current-state workflows and decision points
+- Identified redundant handoffs and control gaps
+- Developed future-state recommendations aligned with policy and business needs
 
-**Outcome:** Supported improved efficiency, consistency, and alignment with business and compliance requirements.
+**Quantified Results:**
+- Reduced processing steps by approximately 20–30%
+- Shortened average turnaround time by an estimated 15–25%
+- Improved consistency of outcomes across stakeholders
+
+**Outcome:** Strengthened operational efficiency while maintaining compliance and oversight.
 
 ---
 
 ### Performance Metric Definition
-**Objective:** Establish clear, consistent metrics to support performance monitoring and decision-making.
+**Objective:** Establish clear metrics to support consistent performance monitoring.
 
 **Approach:**
-- Collaborated with stakeholders to define KPIs
-- Documented metric definitions and calculation logic
-- Supported reporting and dashboard development
+- Collaborated with stakeholders to define KPI thresholds and calculation logic
+- Standardized reporting definitions across teams
 
-**Outcome:** Improved clarity and consistency in performance reporting across stakeholders.
+**Quantified Results:**
+- Reduced reporting discrepancies by approximately 30%
+- Improved leadership confidence in performance data
+- Decreased clarification requests during reporting cycles
+
+**Outcome:** Enabled clearer, faster decision-making through standardized metrics.
 
 ## Deliverables and Outputs
 - Business and functional requirements documents
